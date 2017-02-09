@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSSMS</string>
+    <string name="FCM_PREF">com.csit.cssms.fcm_pref</string>
+    <string name="FCM_TOKEN">com.csit.cssms.fcm_token</string>
+</resources>
